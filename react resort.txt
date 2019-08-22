@@ -1,0 +1,6 @@
+1. npx create-react-app resort
+2. npm install react-icons
+3. npm install react-router-dom --save
+4. npm install --save styled-components
+
+https://youtu.be/ScDWrogElmo?t=15864
